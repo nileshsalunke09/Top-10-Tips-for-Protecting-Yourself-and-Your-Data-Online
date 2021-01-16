@@ -111,7 +111,51 @@ Mostly encryption is OFF by default, You have to set it to ON.
 
 ![Screen Shot 2021-01-16 at 1.58.46 PM.png]({{site.baseurl}}/Screen Shot 2021-01-16 at 1.58.46 PM.png)
 
+### **Tip #4 - Change Default Passwords**
 
+People buy security cameras, baby monotors and lots of other things that are connected to the internet and do not change the default password which makes them more prone to hacking.
+
+Maintain password rotation cycle for all the devices.
+
+
+![Screen Shot 2021-01-16 at 2.06.53 PM.png]({{site.baseurl}}/Screen Shot 2021-01-16 at 2.06.53 PM.png)
+
+
+### **Tip #3 - Adopt a Principle of Least Privileges**
+
+- Only those who need administrator access should get it.
+
+- All resources/tools/data should be behind some form of authentication and authorization.
+
+- Unless you need access to a resource, you don’t get it.
+
+### **Tip #2 - Use Strong Passwords**
+
+![Screen Shot 2021-01-16 at 2.17.22 PM.png]({{site.baseurl}}/Screen Shot 2021-01-16 at 2.17.22 PM.png)
+
+### **Tip #1 - Use Two Factor Authentication (2FA)**
+
+- Identity can be determined by one or more of the following.
+	- Something you know.
+    - Something you are.
+	- Something you have
+
+- Something you know.
+	- Password, Passphrase.
+
+- Something you are.
+	- Fingerprint. 
+	- Facial Scan.
+	- Retina Scan.
+
+- Something you have.
+	- Ubikey.
+	- Rotating Passcode (Google Auth, RSA Token)
+	- SMS Message (be weary)
+    
+    
+
+ ### **For more details please watch this [video](https://www.youtube.com/watch?v=ZAH9Bz7OdNI)**   
 
 
 
