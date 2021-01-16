@@ -155,7 +155,7 @@ Maintain password rotation cycle for all the devices.
     
     
 
- ### **For more details please watch this [video](https://www.youtube.com/watch?v=ZAH9Bz7OdNI)**   
+ **For more details please watch this [video](https://www.youtube.com/watch?v=ZAH9Bz7OdNI)**   
 
 
 
