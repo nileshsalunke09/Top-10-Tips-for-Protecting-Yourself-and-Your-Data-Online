@@ -36,14 +36,14 @@ Below are the examples of the people who got social engineered.
 
 Outside walls of twitter are secure like we saw the server and stuff is all secure, But the inside is where the security breach happens, All the hacker has to do is compromise one person and they get in and then you have vault clusters with no authentication, you have kafka with no authentication, And they can do anything.
 
-### **Tip #10 - Use Key Based Auth Whenever Possible**
+# **Tip #10 - Use Key Based Auth Whenever Possible**
 
 - Public Private key authentication is more secure than password auth.
 
 - Whenever possible, use ppk auth (especially SSH).
 
 
-### **Tip #9 - Beware of Sharing Too Much on the Internet**
+# **Tip #9 - Beware of Sharing Too Much on the Internet**
 
 ![Screen Shot 2021-01-16 at 1.30.03 PM.png]({{site.baseurl}}/Screen Shot 2021-01-16 at 1.30.03 PM.png)
 
@@ -63,14 +63,14 @@ Many people have their facebook account public and hackers can easily google any
 
 Now instead of a brutforce attempt where hackers try every possible letter combination which would take a long time the public account enables hackers to narrow their pool and put your account at risk.
 
-### **Tip #8 - Have Backups and Be Able to Restore Them**
+# **Tip #8 - Have Backups and Be Able to Restore Them**
 
 - A backup that’s never been restored isn’t a backup, it’s a prayer
 
 - With the advent of Ransomware attacks this is more important than ever
 
 
-### **Tip #7 - Beware of Phishing**
+# **Tip #7 - Beware of Phishing**
 
 - “The fraudulent practice of sending emails purporting to be from reputable companies in order to induce individuals to reveal personal information, such as passwords and credit card numbers.”
 
@@ -82,7 +82,7 @@ Now instead of a brutforce attempt where hackers try every possible letter combi
 
 ![Screen Shot 2021-01-16 at 1.48.59 PM.png]({{site.baseurl}}/Screen Shot 2021-01-16 at 1.48.59 PM.png)
 
-### **Tip #6 - Protect Your Devices and Identity**
+# **Tip #6 - Protect Your Devices and Identity**
 
 - Encrypt the disks on all your devices.
 
@@ -102,7 +102,7 @@ Iphone/Android has encryption native to the operating system.
 
 Mostly encryption is OFF by default, You have to set it to ON.
 
-### **Tip #5 - Keep Your Software Updated**
+# **Tip #5 - Keep Your Software Updated**
 
 - The longer a bug exists in the wild, the more likely it will be found.
 
@@ -111,7 +111,7 @@ Mostly encryption is OFF by default, You have to set it to ON.
 
 ![Screen Shot 2021-01-16 at 1.58.46 PM.png]({{site.baseurl}}/Screen Shot 2021-01-16 at 1.58.46 PM.png)
 
-### **Tip #4 - Change Default Passwords**
+# **Tip #4 - Change Default Passwords**
 
 People buy security cameras, baby monotors and lots of other things that are connected to the internet and do not change the default password which makes them more prone to hacking.
 
@@ -121,7 +121,7 @@ Maintain password rotation cycle for all the devices.
 ![Screen Shot 2021-01-16 at 2.06.53 PM.png]({{site.baseurl}}/Screen Shot 2021-01-16 at 2.06.53 PM.png)
 
 
-### **Tip #3 - Adopt a Principle of Least Privileges**
+# **Tip #3 - Adopt a Principle of Least Privileges**
 
 - Only those who need administrator access should get it.
 
@@ -129,7 +129,7 @@ Maintain password rotation cycle for all the devices.
 
 - Unless you need access to a resource, you don’t get it.
 
-### **Tip #2 - Use Strong Passwords**
+# **Tip #2 - Use Strong Passwords**
 
 ![Screen Shot 2021-01-16 at 2.17.22 PM.png]({{site.baseurl}}/Screen Shot 2021-01-16 at 2.17.22 PM.png)
 
