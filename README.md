@@ -92,13 +92,13 @@ Now instead of a brutforce attempt where hackers try every possible letter combi
 
 How do I encrypt my disk/device?
 
-In MacOS goto settings - encryption - encrypt the disk.
+- In MacOS goto settings - encryption - encrypt the disk.
 
-In Linux you can set it up when you do the installation.
+- In Linux you can set it up when you do the installation.
 
-In windows, You can use bitlocker.
+- In windows, You can use bitlocker.
 
-Iphone/Android has encryption native to the operating system.
+- Iphone/Android has encryption native to the operating system.
 
 Mostly encryption is OFF by default, You have to set it to ON.
 
